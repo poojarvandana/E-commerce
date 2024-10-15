@@ -1,0 +1,31 @@
+.navbar {
+    background-color: #333;
+    color: white;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .ecommerce {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .components {
+    display: flex;
+    gap: 25px; 
+  }
+  
+  .nav-link {
+    color: white;
+    text-decoration: none;
+    transition: color 0.3s ease;
+    font-size: 30px;
+    margin-left: 25px;
+  }
+  
+  .nav-link:hover {
+    color: #ffa500; 
+  }
+  
